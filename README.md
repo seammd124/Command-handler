@@ -1,1 +1,1 @@
-# Command-handler
+# Kick and ban command
